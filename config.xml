@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget xmlns="http://www.w3.org/ns/widgets" id="extensions:readability-extension">
+  <name>Readibility Extension</name>
+  <description>Uses the Readability script to remove unnecessary content.</description>
+  <author>Horia Dragomir (hdragomir.com)</author>
+  <icon src="icon_o.png"/>
+</widget>
