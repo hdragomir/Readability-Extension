@@ -1,3 +1,5 @@
 *.psd
 *.komodoproject
 .homodotools
+*.zip
+*.oex

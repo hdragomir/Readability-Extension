@@ -11,7 +11,6 @@ window.addEventListener("load", function(){
       
 
       	var tab = opera.extension.tabs.getFocused();
-      opera.postError(tab)
       	if( tab ){
         tab.postMessage('gogo')
       	}
